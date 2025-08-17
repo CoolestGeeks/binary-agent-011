@@ -1,0 +1,5 @@
+{
+  "name": "Binary Art Explainer",
+  "description": "An application that provides AI-powered voice and visual explanations to user questions using binary art animations.",
+  "requestFramePermissions": []
+}
